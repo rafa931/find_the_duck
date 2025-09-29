@@ -1,0 +1,12 @@
+¡El pato CS50 ha sido robado! El pueblo de Fiftyville te ha llamado para resolver el misterio del pato robado.
+Las autoridades creen que el ladrón robó el pato y, poco después, huyó del pueblo con la ayuda de un cómplice. Tu objetivo es identificar:
+
+Quién es el ladrón,
+A qué ciudad escapó y
+Quién es el cómplice que lo ayudó a escapar.
+Solo sabes que el robo tuvo lugar el 28 de julio de 2023 en la calle Humphrey.
+
+¿Cómo resolverás este misterio? Las autoridades de Fiftyville han recopilado algunos registros del pueblo de la época del robo y
+han preparado una base de datos SQLite para ti, fiftyville.db, que contiene tablas de datos de todo el pueblo.
+Puedes consultar esa tabla mediante consultas SQL SELECT para acceder a los datos que te interesan. Utilizando solo la información
+de la base de datos, tu tarea es resolver el misterio.
